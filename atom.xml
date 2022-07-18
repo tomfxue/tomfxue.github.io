@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-07-10T11:23:45.164Z</updated>
+  <updated>2022-07-18T13:22:42.776Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>再见咖啡</title>
+    <link href="http://example.com/2022/07/18/220718coffee/"/>
+    <id>http://example.com/2022/07/18/220718coffee/</id>
+    <published>2022-07-18T13:11:41.000Z</published>
+    <updated>2022-07-18T13:22:42.776Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://s2.loli.net/2022/07/18/2inEwhgF9HjRVve.jpg" alt="220718_coffee.jpg"></p><p>这次是真的要断掉咖啡了。</p><p>咖啡已经陪伴我十几年了，每天至少两杯，有时候甚至三杯。周末出门碰到有卖咖啡的地方，一定会买上一杯边走边喝。总之就是瘾很大，不喝就浑身难受。后来有亲戚年会抽奖中了一个小型意式咖啡机，半手动的。他不喝咖啡，就把机器送给了我。这样我又在网上买了咖啡豆和磨豆机，开始在家做咖啡了。一段时间摸索下来，已经能做出味道还过得去的咖啡了。这样更是一发不可收拾，咖啡成了我生活中必不可少的一部分。</p><p>然而，从去年开始我的睡眠就一直不好，夜里断续的醒来，早上四五点就行了。起床后头昏脑涨，然后又喝咖啡提神，形成了恶性循环。当然也不能全归过于咖啡，我本身的焦虑也是主要原因之一，但咖啡也起到了很大的作用。</p><p>之前也试过短期的戒断试验，有一定的效果，但过两周还是又忍不住的喝起来。前几周又发现睡眠不好，于是再一次停掉了咖啡。这次发现在效果好了很多，晚上基本是沾就睡，白天感觉整天都很清醒，整个人的状态非常好。而且一段时间下来，发现自己也没有那么强烈要喝咖啡的想法。不如这次就彻底的断了吧！</p><p>总结一下断掉咖啡的好处：</p><ol><li>提高睡眠质量，这是最显而易见好处，而且还很多的连带效应。比如，提高工作效率，有益健康；</li><li>精简掉物品，咖啡机和磨豆机；</li><li>节省买咖啡豆的钱；</li><li>节约做咖啡的时间；</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2022/07/18/2inEwhgF9HjRVve.jpg&quot; alt=&quot;220718_coffee.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;这次是真的要断掉咖啡了。&lt;/p&gt;
+&lt;p&gt;咖啡已经陪伴我十几年了，每天至少两杯，有时候甚</summary>
+      
+    
+    
+    
+    <category term="随笔" scheme="http://example.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="极简" scheme="http://example.com/tags/%E6%9E%81%E7%AE%80/"/>
+    
+  </entry>
   
   <entry>
     <title>随遇随喜</title>
